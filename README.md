@@ -1,2 +1,2 @@
-# TarjetaPresentaci-nSeba
+# TarjetaPresentación Seba
 Tarjeta de presentación personal
